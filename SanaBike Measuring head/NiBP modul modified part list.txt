@@ -1,0 +1,55 @@
+2 version of head of bike, one without Nibp module (20-30-600 Messkopf SB3-1_2025), second with NiBp module (20-30-502 Messkopf SB3-1_2025) 
+
+
+20-30-600 Messkopf SB3-1_2025
+
+removed
+37-30-501 Steuerplatine
+Abstandsbolzen M3x15 IG+AG (41-02-018) x4 distancer of display
+Abstandsbolzen M3x25 (IG/AG) Stahl vern 41-02-006 x4 distancer for hold Main unit pcb
+Sechskantmutter M3 - DIN 934 (41-01-006) x2 extra mutter for display
+27-30-400_ZI04 Lager, gehause, meskopf
+42-02-001 Scheibe, Kunststoff, A DIN125 Polyamid 6.6 3,2 (M3) x1 -  check - extra on model for display
+
+
+Added
+
+37-30-501 Steuerplatine new version (012)
+27-30-400_ZI05 Lager, gehause, meskopf
+35-30-xxx Plain Bearing socket
+Abstandsbolzen M3x10 IG+AG  x4 distancer of display
+Abstandsbolzen M3x30 (IG/AG) Stahl vern x4 distancer for hold Main unit pcb
+27-30-400_ZI05 Lager, gehause, meskopf
+35-30-xxx Plain Bearing socket
+
+
+20-30-602 Messkopf SB3-1_2025
+
+removed 
+
+37-30-501 Steuerplatine
+37-10-506 Platine NiBP
+35-10-860 bms
+Abstandsbolzen M3x15 IG+AG (41-02-018) x4 (distancer between Display and Steuerplatine)
+Abstandsbolzen M3x25 IG+AG (41-02-006) x4 (distancer between Head of bike and Steuerplatine)
+Sechskantmutter M3 - DIN 934 (41-01-006) x2 (excess on display)
+unterdruckpumpe
+Scheibe, Kunststoff M3 - DIN 125 A3,2 x1 (42-02-001) (on distancer one between display and steuerplatine)
+Steckanschluss, Mikrophon (69-01-075) - 3 pin connector for microphone
+27-30-400_ZI04 Lager, gehause, meskopf
+26-30-800 x2
+38-01-043 pvc
+
+
+Added:
+37-30-501 Steuerplatine new version (012)
+Abstandsbolzen M3x10 IG+AG x2 (distancer on display to steuerplatine)
+Abstandsbolzen M3x30 IG+AG x4 (distancer on head of bike to steuerplatine)
+31-30-001_ZI00 Träger, Ersatz BD-Platine x2 (platine for fixing steuerplatine to housing)
+Abstandsbolzen M3x15 IG+AG (41-02-018) x3 (distancer between Nibp and steuerplatine)
+Linsenkopfschraube M3x4 - DIN7985 (40-08-006) x3 (screw for fixing to steuerplatine of distancer for NiBP)
+Sechskantmutter M3 - DIN 934 (41-01-006) x3 (mutter for fixing Nibp)
+464460 - 4 pin microphone connector
+27-30-400_ZI05 Lager, gehause, meskopf
+35-30-xxx Plain Bearing socket
+

@@ -1,0 +1,108 @@
+Modification - implementing new PS PCB and SMPS
+
+SB1000
+
+Add:
+
+- 28-30-101-A1_ZI05 -----> 28-30-101-A1-ZI06 (Hole for input cable moved, position for trafo removed, add new 4 holes for SMPS, new hole for fixing RS232)
+- RACM 230-36SG
+- PS PCB EM1-60
+- RS232 modified PCB
+- 4x Sechskantmutter M3 - DIN 934 (41-01-006)  
+- 4x spring washer M3 DIN 127
+- 4x DIN 916 M3x16
+- 4x BN 6 1010565 flat washer M3
+- 4x DIN985 M3 nut with gume
+- 35-30-832_ZI00 Isolationfolie for SMPS (new isolationfolie above SMPS)
+- New lenght and connector with pins for input cable to new PS (SMPS) ( 09-50-1031 Molex,2 x 08-70-1030 Molex)
+- Cable from SMPS to PS PCB (Lenght AWG18 red and blk, 2 x ring terminals for 2 x 1mm2 cable and hole from 4mm, Connector VHR-4N and 4 x svh21t-p1.1 pins )
+
+
+Remove:
+
+- Ringentrafo SB2+SB3
+- 28-30-101-A4_ZI00
+- 28-30-101-A5_ZI00 Gewindebolzen, Erdung, Grundgestell - deleted for PE
+- M4 DIN 934 (42-01-001) 
+- M4 DIN 6797 I4,3 (42-04-003)
+- M4 DIN 125 A4,3 (42-01-003 - Gross 0802 0082)
+- M8 DIN 934 (41-01-003)
+- M8 DIN 6797 I8,4 (42-04-002)
+- M8 DIN 125 A8,4 (42-01-002 Gross 08020121)
+- 37-10-302 RS232 Platine
+- 37-30-300 Netzteilplatine
+- Cable that connect Earth and PS PCB
+- Cable for earth from PS 
+
+
+SB1000 with motor
+
+Add:
+
+- 28-30-101-A1_ZI05 -----> 28-30-101-A1-ZI06(Hole for input cable moved, position for trafo removed, add new 4 holes for SMPS, new hole for fixing RS232)
+- RACM 550-36SG
+- PS PCB EM1-6
+- RS232 modified PCB
+- 3x GBMS_3055_33_10 (distancer 10mm - the same like is implement for display on stuerplatine)
+- 3x DIN 912 M3x5
+- Cable RS232 from adapter to RS232 PCB
+- Adapter RS232 (female/female)
+- 4x Sechskantmutter M3 - DIN 934 (41-01-006)  
+- 4x spring washer M3 DIN 127
+- 4x DIN 916 M3x16
+- 4x BN 6 1010565 flat washer M3
+- 4x DIN985 M3 nut with gume
+- 35-30-832_ZI00 Isolationfolie for SMPS (new isolationfolie above SMPS)
+- New lenght and connector with pins for input cable to new PS (SMPS) ( 09-50-1031 Molex, 2 x 08-70-1030 Molex)
+- Cable from SMPS to PS PCB (Lenght AWG18 red and blk, 2 x ring terminals for 2 x 1mm2 cable and hole from 4mm, Connector VHR-4N and 4 x svh21t-p1.1 pins )
+
+
+Remove:
+
+- Ringentrafo SB2+SB3
+- 28-30-101-A4_ZI00
+- 28-30-101-A5_ZI00 Gewindebolzen, Erdung, Grundgestell - deleted for PE
+- M4 DIN 934 (42-01-001) 
+- M4 DIN 6797 I4,3 (42-04-003)
+- M4 DIN 125 A4,3 (42-01-003 - Gross 0802 0082)
+- M8 DIN 934 (41-01-003)
+- M8 DIN 6797 I8,4 (42-04-002)
+- M8 DIN 125 A8,4 (42-01-002 Gross 08020121)
+- 37-10-302 RS232 Platine
+- 37-30-300 Netzteilplatine
+- 37-30-120 Netzfilter
+- 37-30-100 E-sattelsteurung
+- Ringentrafo E-Sattel
+- Frame for pcbs (doesnt implement on model) + standard parts
+- Sechskantmutter M3 - DIN 934 (41-01-006) x2 - because adapter
+- Scheibe, Stahl M3 - DIN 125 A3,2 (42-01-001 - Gross 0802 00066) x2 - because adapter
+
+SB500
+
+ADD
+
+- PS PCB EM1-60
+- RACM 230-36SG 
+- 28-11-102-ZI02 -----> 28-11-102-ZI03 (removed old holes, added new for SMPS)
+- 21-31-101-A1_ZI02 -----> 21-31-101-A1_ZI03 (old holes removed, added new holes for SMPS)
+- 4x Sechskantmutter M3 - DIN 934 (41-01-006)
+- 4x spring washer M3 DIN 127
+- 4x DIN 916 M3x16
+- 4x BN 6 1010565 flat washer M3
+- 4x DIN985 M3 nut with gume
+- New lenght and connector with pins for input cable to new PS (SMPS) ( 09-50-3031 Molex, 2 x 0008500105 Molex)
+- Cable from SMPS to PS PCB (Lenght AWG18 red and blk, 09-50-1061 Molex, 4 x 08-70-1031 Molex, Connector VHR-4N and 4 x svh21t-p1.1 pins )
+
+Remove:
+
+- Ringentrafo SB2+SB3 (66-10-302)
+- 37-30-300 Netzteilplatine
+- Zylinderschaube M8x40 DIN 912 (40-01-003)
+- Scheibe_stahl M8_DIN 125 A8,4 (42-01-002)
+- M8 - DIN 6797 18,4 (42-04-002)
+- Cable that connect Earth and PS PCB
+- Cable for earth from PS 
+
+ADD plastic or tire on hole where are cables goes and on flat cable must be on all lenght plastic spirale
+
+
